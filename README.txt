@@ -11,3 +11,5 @@ For copyright and licensing information - including any Reserved Font Names - se
 For practical information about using, modifying and redistributing this font see OFL-FAQ.txt.
 
 For more details about this project, including changelog and acknowledgements see FONTLOG.txt.
+
+GitHub (on the web) says the upstream default branch has changed.
